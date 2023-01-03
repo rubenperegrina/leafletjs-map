@@ -42,4 +42,8 @@ Si quieres contribuir al proyecto, por favor sigue las siguientes instrucciones:
 4. Haz un push a tu rama (`git push origin mi-contribucion`) 📤
 5. Crea una solicitud de pull 📩
 
+## Despliegue
+
+El proyecto está desplegado en [Vercel](https://vercel.com/) en la siguiente URL: [https://leafletjs-map.vercel.app/](https://leafletjs-map.vercel.app/). 🚀
+
 Esté readme ha sido creado con chatGPT

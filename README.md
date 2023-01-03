@@ -1,6 +1,6 @@
 # Mapa Interactivo de Estados Unidos 🗺️
 
-![Imagen del mapa](./assets/img/map.png)
+![Imagen del mapa](./src/assets/img/map.PNG)
 
 Este es un mapa interactivo de Estados Unidos que permite visualizar la densidad de población de cada estado 🏙️ y realizar diversas acciones como hacer zoom 🔍 y seleccionar diferentes capas de información 📊. Está desarrollado en Angular 15 💻 y utiliza la librería Leaflet 🌍 para crear el mapa.
 

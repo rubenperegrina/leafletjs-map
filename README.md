@@ -1,27 +1,42 @@
-# leafletjsMap
+# Mapa Interactivo de Estados Unidos 🗺️
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
+![Imagen del mapa](./assets/img/map.png)
 
-## Development server
+Este es un mapa interactivo de Estados Unidos que permite visualizar la densidad de población de cada estado 🏙️ y realizar diversas acciones como hacer zoom 🔍 y seleccionar diferentes capas de información 📊. Está desarrollado en Angular 15 💻 y utiliza la librería Leaflet 🌍 para crear el mapa.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Leaflet es una librería JavaScript para crear mapas interactivos. Permite añadir marcadores, polígonos y líneas, así como personalizar la apariencia del mapa y utilizar eventos de interacción por el usuario. Puedes encontrar más información en la página de Leaflet en [https://leafletjs.com/](https://leafletjs.com/).
 
-## Code scaffolding
+## Características
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Visualización de la densidad de población de cada estado 🏙️
+- Posibilidad de hacer zoom 🔍 y seleccionar diferentes capas de información 📊
+- Diseño intuitivo y fácil de usar 📲
 
-## Build
+## Requisitos
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js 💻
+- Angular 15 💻
+- Leaflet 🌍
 
-## Running unit tests
+## Instalación
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Descarga el código fuente del proyecto 📥
+2. Instala las dependencias con `npm install` 📦
+3. Inicia el servidor de desarrollo con `ng serve` 🚀
 
-## Running end-to-end tests
+## Uso
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Accede a la aplicación a través de tu navegador en la dirección `http://localhost:4200` 🌐
+2. Utiliza el mapa interactivo para explorar la información sobre la densidad de población de cada estado 🏙️
 
-## Further help
+## Contribución
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Si quieres contribuir al proyecto, por favor sigue las siguientes instrucciones:
+
+1. Haz un fork del repositorio 🍴
+2. Crea una rama con tu contribución (`git checkout -b mi-contribucion`) 🌱
+3. Haz un commit de tus cambios (`git commit -am 'Añadida una nueva característica'`) 💾
+4. Haz un push a tu rama (`git push origin mi-contribucion`) 📤
+5. Crea una solicitud de pull 📩
+
+Esté readme ha sido creado con chatGPT

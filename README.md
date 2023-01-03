@@ -1,6 +1,9 @@
 # Mapa Interactivo de Estados Unidos 🗺️
 
-![Imagen del mapa](./src/assets/img/map.PNG)
+<p align="center">
+  <a href="https://leafletjs-map.vercel.app/" target="_blank"><img src="./src/assets/img/map.PNG" alt="EEUU map"></a>
+  <br/><br/>
+</p>
 
 Este es un mapa interactivo de Estados Unidos que permite visualizar la densidad de población de cada estado 🏙️ y realizar diversas acciones como hacer zoom 🔍 y seleccionar diferentes capas de información 📊. Está desarrollado en Angular 15 💻 y utiliza la librería Leaflet 🌍 para crear el mapa.
 
